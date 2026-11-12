@@ -133,4 +133,4 @@ This dashboard provides a consolidated view of airline performance and helps sta
 - Understand differences in operational efficiency.
 - Explore estimated profitability.
   🖥️ Project Preview
-Screenshot 2026-11-12 131846.png
+https://github.com/NimishaRajan13/Indian_Airlines_Performance_Analysis_PowerBI/blob/main/Screenshot%202026-11-12%20131846.png
