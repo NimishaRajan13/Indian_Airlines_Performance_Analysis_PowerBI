@@ -18,9 +18,9 @@ The objective: Turn raw airline data into actionable insights that support data-
 🛠️ Tools & Technologies
 Tool / Technology	Application
 Microsoft Power BI Desktop	Dashboard development and data visualisation
-Power Query	Data cleaning and transformation (if used)
+Power Query	Data cleaning and transformation 
 DAX	Calculated measures and KPI calculations
-Data Modelling	Organising data relationships (if implemented)
+Data Modelling	Organising data relationships 
 Power BI Slicers	Interactive airline, route and destination filtering📊 Dashboard Features
 1. Airline Performance Overview
 - Airline-wise passenger analysis.
@@ -85,9 +85,9 @@ The objective: Turn raw airline data into actionable insights that support data-
 🛠️ Tools & Technologies
 Tool / Technology	Application
 Microsoft Power BI Desktop	Dashboard development and data visualisation
-Power Query	Data cleaning and transformation (if used)
+Power Query	Data cleaning and transformation 
 DAX	Calculated measures and KPI calculations
-Data Modelling	Organising data relationships (if implemented)
+Data Modelling	Organising data relationships
 Power BI Slicers	Interactive airline, route and destination filtering📊 Dashboard Features
 1. Airline Performance Overview
 - Airline-wise passenger analysis.
