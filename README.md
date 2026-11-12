@@ -135,4 +135,4 @@ This dashboard provides a consolidated view of airline performance and helps sta
   
   🖥️ Project Preview
   
-https://github.com/NimishaRajan13/Indian_Airlines_Performance_Analysis_PowerBI/blob/main/Screenshot%202026-11-12%20131846.png
+![Indian Airlines Performance Dashboard](./Screenshot%202026-11-12%20131846.png)
